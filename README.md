@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analysis 
 - 🌱 I’m currently learning web development  and SQL
 - 💞️ I’m looking to collaborate on Python, Web dev and data science projects 
-- 📫 How to reach me on twitter @sigh_clop
+- 📫 How to reach me on twitter @i_lovememphis
 
 <!---
 MainBank5/MainBank5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
