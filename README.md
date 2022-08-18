@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MainBank5
-- 👀 I’m interested in data analysis 
-- 🌱 I’m currently learning web development  and SQL
+- 👀 I’m interested web dev 
+- 🌱 I’m currently learning web development  and data analysis
 - 💞️ I’m looking to collaborate on Python, Web dev and data science projects 
 - 📫 How to reach me on twitter @i_lovememphis
 
