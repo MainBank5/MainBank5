@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eliud Karuga
 - 👀 I’m a frontend deveveloper 
-- 🌱 I’m currently learning backend development
+- 🌱 I’m currently learning backend web development
 - 💞️ I’m looking to collaborate on Web dev projects 
 - 📫 Reach me on twitter @sigh_clop
 
