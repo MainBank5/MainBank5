@@ -1,10 +1,15 @@
-- 👋 Hi, I’m Eliud Karuga
-- 👀 I’m a web deveveloper 
-- 🌱 I’m currently learning backend web development
-- 💞️ I’m looking to collaborate on Web dev projects 
-- 📫 Reach me on twitter @sigh_clop
+Hi 👋, I'm Eliud - a web developer.  
 
-<!---
-Mainbank5/Eliud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+✉️ You can reach me via https://eliud-karuga-portfolio.vercel.app/
+🧠 I'm currently learning Java
+🤝 I'm open to collaborating on developer projects and technical content creation
+
+Skills
+🎨 Material Design and Tailwind
+👩🏽‍💻 React, Next
+☁️ Serverless (Supabase and Firebase)
+💻 Django and Node
+🐘 Postgres
+
+
