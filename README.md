@@ -3,7 +3,7 @@ Hi 👋, I'm Eliud - a web developer.
 
 - ✉️ You can reach me via https://eliud-karuga-portfolio.vercel.app/
 - 🧠 I'm currently learning Java
-- 🤝 I'm open to collaborating on developer projects and technical content creation
+- 🤝 I'm open to collaborating on developer projects
 
 
 
