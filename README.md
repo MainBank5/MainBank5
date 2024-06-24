@@ -1,7 +1,7 @@
 Hi 👋, I'm Eliud - a web developer.  
 
 
-- ✉️ You can reach me via eliudkay20@gmail.com
+
 - 🧠 I'm currently learning Java
 - 🤝 I'm open to collaborating on developer projects
 
