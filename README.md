@@ -11,7 +11,7 @@ Skills
 - 🎨 Material Design and Tailwind
 - 👩🏽‍💻 React, Next
 - ☁️ Serverless (Supabase and Firebase)
-- 💻 Django and Node      
+- 💻 Django and Node - Express.js and Nest.js      
 - 🐘 Postgres
 
 reach out: https://eliud-karuga-portfolio.vercel.app/
