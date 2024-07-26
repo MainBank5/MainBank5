@@ -12,7 +12,7 @@ Skills
 - 👩🏽‍💻 React, Next
 - ☁️ Serverless (Supabase and Firebase)
 - 💻 Django and Node - Express.js and Nest.js      
-- 🐘 Postgres
+- 🐘 PostgresQL and MongoDB
 
 reach out: https://eliud-karuga-portfolio.vercel.app/
 
