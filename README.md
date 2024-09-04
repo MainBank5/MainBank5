@@ -1,4 +1,4 @@
-Hi 👋, I'm Eliud - a fullstack web developer.  
+Hi 👋, I'm Eliud - a backend web developer.  
 
 
 
