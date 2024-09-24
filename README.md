@@ -1,9 +1,7 @@
-Hi 👋, I'm Eliud - a backend web developer.  
+Hi 👋, I'm Eliud - a backend web developer and cloud engineer.  
 
-
-
-- 🧠 I'm currently learning Java
 - 🤝 I'm open to collaborating on developer projects
+- I'm currently building my marketing agency 
 
 
 
