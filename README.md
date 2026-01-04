@@ -8,8 +8,8 @@ Hi 👋, I'm Eliud - a backend web developer and cloud engineer.
 Skills
 - 👩🏽‍💻 React, Next
 - ☁️ Serverless (Supabase and Firebase),  AWS, Azure
-- 💻 DotNet and Node - Express.js and Nest.js      
-- 🐘 SQL and NoSql
+- 💻 DotNet and Node -  Nest.js      
+- Database design 
 - Devops Containerization and orchestration (Docker and Kubernetes)
 
 
