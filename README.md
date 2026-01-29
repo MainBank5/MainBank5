@@ -11,12 +11,21 @@ I design and build microservices architectures, cloud infrastructure, and backen
 **Backend**
 - TypeScript / Node.js (NestJS)
 - C# / .NET
-- REST APIs, Message Queues, Event-Driven Architecture
+- REST APIs & System Design
 
-**Cloud & DevOps**
+**Architecture & Patterns**
+- Event-Driven Architecture
+- Message Queues
+- Concurrency & Distributed Systems
+
+**Cloud & Infrastructure**
 - AWS (ECS, Fargate, RDS, S3, API Gateway)
-- Terraform (Infrastructure as Code)
+- Terraform (IaC)
 - Docker, CI/CD
+- VPS: DigitalOcean, Hetzner, Coolify
+
+**Observability**
+- Grafana, OpenTelemetry
 
 **Data**
 - PostgreSQL, SQL Server
