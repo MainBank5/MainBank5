@@ -1,4 +1,4 @@
-# Hi, I'm Eliud 👋
+# Hi,
 
 **Backend & Cloud Engineer** | Building scalable distributed systems
 
