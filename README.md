@@ -1,42 +1,33 @@
-# Hi,
 
-**Backend & Cloud Engineer** | Building scalable distributed systems
+
+# Hi, I'm Eliud
+
+**Platform Engineer / Backend Engineer** | Cloud Infrastructure · 
+Kubernetes · Distributed Systems
 
 ## What I Do
 
-I design and build microservices architectures, cloud infrastructure, and backend systems that scale. 4+ years turning complex problems into clean, maintainable solutions.
+I build production-grade cloud infrastructure and backend systems — 
+from Kubernetes clusters and CI/CD pipelines to microservices 
+architectures and APIs. I work across the full stack of a 
+platform: infrastructure, backend services, and the automation 
+that connects them.
 
-## Tech Stack
+## Core Stack
+
+**Infrastructure & DevOps**
+- AWS (EKS, VPC, IAM, S3, RDS) · Azure · GCP
+- Terraform · Ansible · Helm
+- Kubernetes (EKS, AKS) · Docker
+- GitHub Actions · Azure Pipelines · GitLab CI
+- Prometheus · Grafana · Loki
 
 **Backend**
-- TypeScript / Node.js (NestJS)
-- C# / .NET
-- REST APIs & System Design
-
-**Architecture & Patterns**
-- Event-Driven Architecture
-- Message Queues
-- Concurrency & Distributed Systems
-
-**Cloud & Infrastructure**
-- AWS (ECS, Fargate, RDS, S3, API Gateway)
-- Terraform (IaC)
-- Docker, CI/CD
-- VPS: DigitalOcean, Hetzner, Coolify
-
-**Observability**
-- Grafana, OpenTelemetry
-
-**Data**
-- PostgreSQL, SQL Server
-- Database Design & Optimization
+- Go · TypeScript / Node.js (NestJS) · C# / .NET
+- PostgreSQL · MongoDB · Redis
+- REST APIs · GraphQL · Event-driven architecture
+- Kafka · RabbitMQ
 
 ---
-
-*I use Arch btw* 🐧
-
-
-
-
-
-
+📜 AWS Certified Solutions Architect – Associate
+🕐 UTC+3 (EAT) — Available for remote roles
