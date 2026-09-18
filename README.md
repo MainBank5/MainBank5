@@ -5,7 +5,7 @@
 
 ## What I Do
 
-I build production-grade cloud infrastructure and backend systems — 
+I build  cloud infrastructure and backend systems — 
 from Kubernetes clusters and CI/CD pipelines to microservices 
 architectures and APIs. I work across the full stack of a 
 platform: infrastructure, backend services, and the automation 
