@@ -2,8 +2,6 @@
 
 # Hi, I'm Eliud
 
-**Platform Engineer / Backend Engineer** | Cloud Infrastructure · 
-Kubernetes · Distributed Systems
 
 ## What I Do
 
