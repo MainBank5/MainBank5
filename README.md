@@ -21,7 +21,7 @@ that connects them.
 - Prometheus · Grafana · Loki
 
 **Backend**
-- Go · TypeScript / Node.js (NestJS) · C# / .NET
+- Go · TypeScript / Node.js (NestJS) · Python
 - PostgreSQL · MongoDB · Redis
 - REST APIs · GraphQL · Event-driven architecture
 - Kafka · RabbitMQ
